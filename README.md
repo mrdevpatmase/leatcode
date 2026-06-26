@@ -7,10 +7,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mrdevpatmase/leatcode/tree/master/0001-two-sum) |
+| [0496-next-greater-element-i](https://github.com/mrdevpatmase/leatcode/tree/master/0496-next-greater-element-i) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mrdevpatmase/leatcode/tree/master/0001-two-sum) |
+| [0496-next-greater-element-i](https://github.com/mrdevpatmase/leatcode/tree/master/0496-next-greater-element-i) |
 ## Linked List
 |  |
 | ------- |
@@ -30,4 +32,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/mrdevpatmase/leatcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/mrdevpatmase/leatcode/tree/master/0025-reverse-nodes-in-k-group) |
+## Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/mrdevpatmase/leatcode/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/mrdevpatmase/leatcode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
