@@ -1,33 +1,36 @@
 #include <vector>
-#include <stack>
 #include <unordered_map>
+#include <stack>
+
+using namespace std;
 
 class Solution {
 public:
-    std::vector<int> nextGreaterElement(std::vector<int>& nums1, std::vector<int>& nums2) {
-        std::unordered_map<int, int> next_greater;
-        std::stack<int> st;
-        
-        // Step 1: Find the next greater element for every number in nums2
+    vector<int> nextGreaterElement(vector<int>& nums1, vector<int>& nums2) {
+        unordered_map<int, int> next_greater;
+        stack<int> st;
+
+        // Process nums2 to find the next greater element for every number
         for (int num : nums2) {
-            // While stack is not empty and current num is greater than the stack top
-            while (!st.empty() && num > st.top()) {
-                next_greater[st.top()] = num; // Current num is the next greater element
+            // Maintain a monotonic decreasing stack
+            while (!st.empty() && st.top() < num) {
+                next_greater[st.top()] = num;
                 st.pop();
             }
-            st.push(num); // Push current num to find its next greater element later
+            st.push(num);
         }
-        
-        // Step 2: Build the result array for nums1 using our map
-        std::vector<int> result;
+
+        // Map the results back to nums1
+        vector<int> ans;
+        ans.reserve(nums1.size());
         for (int num : nums1) {
             if (next_greater.count(num)) {
-                result.push_back(next_greater[num]);
+                ans.push_back(next_greater[num]);
             } else {
-                result.push_back(-1); // No greater element found in nums2
+                ans.push_back(-1); // No greater element found
             }
         }
-        
-        return result;
+
+        return ans;
     }
 };
