@@ -7,12 +7,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mrdevpatmase/leatcode/tree/master/0001-two-sum) |
+| [0037-sudoku-solver](https://github.com/mrdevpatmase/leatcode/tree/master/0037-sudoku-solver) |
 | [0053-maximum-subarray](https://github.com/mrdevpatmase/leatcode/tree/master/0053-maximum-subarray) |
 | [0496-next-greater-element-i](https://github.com/mrdevpatmase/leatcode/tree/master/0496-next-greater-element-i) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mrdevpatmase/leatcode/tree/master/0001-two-sum) |
+| [0037-sudoku-solver](https://github.com/mrdevpatmase/leatcode/tree/master/0037-sudoku-solver) |
 | [0496-next-greater-element-i](https://github.com/mrdevpatmase/leatcode/tree/master/0496-next-greater-element-i) |
 ## Linked List
 |  |
@@ -56,4 +58,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/mrdevpatmase/leatcode/tree/master/0053-maximum-subarray) |
+## Backtracking
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/mrdevpatmase/leatcode/tree/master/0037-sudoku-solver) |
+## Matrix
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/mrdevpatmase/leatcode/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
