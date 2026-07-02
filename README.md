@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/mrdevpatmase/leatcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/mrdevpatmase/leatcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/mrdevpatmase/leatcode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/mrdevpatmase/leatcode/tree/master/0876-middle-of-the-linked-list) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -66,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/mrdevpatmase/leatcode/tree/master/0037-sudoku-solver) |
+## Two Pointers
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/mrdevpatmase/leatcode/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
