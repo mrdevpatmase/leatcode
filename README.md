@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/mrdevpatmase/leatcode/tree/master/0053-maximum-subarray) |
 | [0084-largest-rectangle-in-histogram](https://github.com/mrdevpatmase/leatcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0136-single-number](https://github.com/mrdevpatmase/leatcode/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/mrdevpatmase/leatcode/tree/master/0169-majority-element) |
 | [0496-next-greater-element-i](https://github.com/mrdevpatmase/leatcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/mrdevpatmase/leatcode/tree/master/0503-next-greater-element-ii) |
 ## Hash Table
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/mrdevpatmase/leatcode/tree/master/0001-two-sum) |
 | [0037-sudoku-solver](https://github.com/mrdevpatmase/leatcode/tree/master/0037-sudoku-solver) |
+| [0169-majority-element](https://github.com/mrdevpatmase/leatcode/tree/master/0169-majority-element) |
 | [0496-next-greater-element-i](https://github.com/mrdevpatmase/leatcode/tree/master/0496-next-greater-element-i) |
 ## Linked List
 |  |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/mrdevpatmase/leatcode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/mrdevpatmase/leatcode/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -92,4 +95,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/mrdevpatmase/leatcode/tree/master/0136-single-number) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/mrdevpatmase/leatcode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/mrdevpatmase/leatcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
