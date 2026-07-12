@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/mrdevpatmase/leatcode/tree/master/0001-two-sum) |
 | [0037-sudoku-solver](https://github.com/mrdevpatmase/leatcode/tree/master/0037-sudoku-solver) |
+| [0146-lru-cache](https://github.com/mrdevpatmase/leatcode/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/mrdevpatmase/leatcode/tree/master/0169-majority-element) |
 | [0496-next-greater-element-i](https://github.com/mrdevpatmase/leatcode/tree/master/0496-next-greater-element-i) |
 ## Linked List
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/mrdevpatmase/leatcode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/mrdevpatmase/leatcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/mrdevpatmase/leatcode/tree/master/0025-reverse-nodes-in-k-group) |
+| [0146-lru-cache](https://github.com/mrdevpatmase/leatcode/tree/master/0146-lru-cache) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/mrdevpatmase/leatcode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/mrdevpatmase/leatcode/tree/master/0876-middle-of-the-linked-list) |
 ## Depth-First Search
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Doubly-Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/mrdevpatmase/leatcode/tree/master/0146-lru-cache) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/mrdevpatmase/leatcode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Recursion
 |  |
@@ -91,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/mrdevpatmase/leatcode/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/mrdevpatmase/leatcode/tree/master/0155-min-stack) |
 ## Bit Manipulation
 |  |
