@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mrdevpatmase/leatcode/tree/master/0001-two-sum) |
+| [0018-4sum](https://github.com/mrdevpatmase/leatcode/tree/master/0018-4sum) |
 | [0037-sudoku-solver](https://github.com/mrdevpatmase/leatcode/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/mrdevpatmase/leatcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/mrdevpatmase/leatcode/tree/master/0053-maximum-subarray) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0018-4sum](https://github.com/mrdevpatmase/leatcode/tree/master/0018-4sum) |
 | [0042-trapping-rain-water](https://github.com/mrdevpatmase/leatcode/tree/master/0042-trapping-rain-water) |
 | [0876-middle-of-the-linked-list](https://github.com/mrdevpatmase/leatcode/tree/master/0876-middle-of-the-linked-list) |
 ## Design
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/mrdevpatmase/leatcode/tree/master/0018-4sum) |
 | [0169-majority-element](https://github.com/mrdevpatmase/leatcode/tree/master/0169-majority-element) |
 ## Counting
 |  |
